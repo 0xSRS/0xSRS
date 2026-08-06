@@ -1,7 +1,7 @@
 # Hi, I'm Suryansh! 👋
 
 ### 🎓 CSE Student @ National Forensic Sciences University (NFSU)
-**Aspiring Full Stack Developer with a focus on Secure Coding & Digital Forensics.**
+**Cyber Security Aspirant with a focus on Secure Coding & Digital Forensics.**
 
 I am currently on a journey to master the full web development stack, bridging the gap between building scalable applications and ensuring they are secure from the ground up.
 
