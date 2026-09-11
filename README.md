@@ -1,20 +1,8 @@
 # Hi, I'm Suryansh! 👋
 
 ### 🎓 CSE Student @ National Forensic Sciences University (NFSU)
-**Cyber Security Aspirant with a focus on Secure Coding & Digital Forensics.**
-
-I am currently on a journey to master the full web development stack, bridging the gap between building scalable applications and ensuring they are secure from the ground up.
-
+**Cyber Security Aspirant with a focus on Secure Coding & Digital Forensics.*
 ---
-
-### 🚀 What I'm Up To
-* 🏫 **Studying:** B.Tech in Computer Science & Engineering (Cyber Security) at NFSU, Gandhinagar.
-* 💻 **Learning:** The MERN Stack (MongoDB, Express, React, Node.js).
-* 🔍 **Interested In:** Web Application Security, Digital Forensics, and Backend Architecture.
-* ✍️ **Current Goal:** Building my first 3 full-stack portfolio projects.
-
----
-
 ### 🛠️ My Learning Toolbox
 
 **Currently Mastering:**
@@ -33,6 +21,6 @@ I am currently on a journey to master the full web development stack, bridging t
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-raj-singh-20b9092b8/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_0xsrs_/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/0x.srs/)
 
 ---
